@@ -1,0 +1,37 @@
+MilestoneName,UID,Role
+Send colonists to Mars,uid1,ProductOwner
+Send colonists to Mars,uid1,VPSponsor
+Terraform Mars,uid2,VPSponsor
+Fajita Time!,uid3,VPSponsor
+Import Chickens to Mars,uid3,VPSponsor
+Terraform Mars,uid4,ProductOwner
+Terraform the Moon,uid5,Sponsor
+Plant Jalapenos on the Moon,uid5,Sponsor
+Fajita Time!,uid5,Sponsor
+Plant Jalapenos on Mars,uid5,Sponsor
+Send colonists to Mars,uid5,Sponsor
+Plant Onions and Peppers on Mars,uid5,Sponsor
+Terraform Mars,uid5,Sponsor
+Send colonists to the Moon,uid5,Sponsor
+Import Chickens to Mars,uid5,Sponsor
+Fajita Time!,uid6,ProductOwner
+Terraform the Moon,uid7,VPSponsor
+Plant Jalapenos on the Moon,uid7,VPSponsor
+Plant Jalapenos on the Moon,uid8,ProductOwner
+Send colonists to the Moon,uid9,VPSponsor
+Import Chickens to Mars,uid10,ProductOwner
+Send colonists to the Moon,uid11,ProductOwner
+Plant Jalapenos on Mars,uid12,ProductOwner
+Terraform the Moon,uid13,ProductOwner
+Plant Onions and Peppers on Mars,uid14,ProductOwner
+Plant Onions and Peppers on Mars,uid15,VPSponsor
+Plant Onions and Peppers on Mars,uid16,PortfolioManager
+Terraform the Moon,uid17,PortfolioManager
+Plant Jalapenos on the Moon,uid17,PortfolioManager
+Fajita Time!,uid17,PortfolioManager
+Plant Jalapenos on Mars,uid17,PortfolioManager
+Send colonists to Mars,uid17,PortfolioManager
+Terraform Mars,uid17,PortfolioManager
+Send colonists to the Moon,uid17,PortfolioManager
+Import Chickens to Mars,uid17,PortfolioManager
+Plant Jalapenos on Mars,uid18,VPSponsor

@@ -1,0 +1,11 @@
+MilestoneName,TargetDate,ReportedStatus,Portfolio,PortfolioGroup,MarketSegment,ShowBoard,Description,WorkID,DistributionProgram
+Terraform the Moon,7/31/2025,,Moon,TBD,Moontians,TRUE,Terraform the Moon,1006628,Moon
+Terraform Mars,7/31/2025,,Mars,TBD,Martians,FALSE,Terraform Mars,1011154,Mars
+Send colonists to the Moon,6/27/2025,Green,Moon,TBD,Moontians,TRUE,Send colonists to the Moon,1010140,Moon
+Plant Jalapenos on the Moon,7/15/2025,,Moon,TBD,Moontians,TRUE,Plant Jalapenos on the Moon,1006608,Moon
+Send colonists to Mars,6/27/2025,,Mars,TBD,Martians,FALSE,Send colonists to Mars,1011063,Mars
+Plant Jalapenos on Mars,7/31/2025,,Mars,TBD,Martians,FALSE,Plant Jalapenos on Mars,1006612,Mars
+Plant Onions and Peppers on Mars,6/20/2025,,Mars,TBD,Martians,FALSE,Plant Onions and Peppers on Mars,1011410,Mars
+Import Chickens to Mars,5/23/2025,,Mars,TBD,Martians,FALSE,Import Chickens to Mars,1012802,Mars
+Fajita Time!,5/30/2025,,Party,TBD,Solar Systemists,FALSE,Fajita Time!,1011051,Party
+Send colonists to the Moon,6/27/2025,Green,Moon,TBD,Moontians,TRUE,Send colonists to the Moon,1010141,Moon

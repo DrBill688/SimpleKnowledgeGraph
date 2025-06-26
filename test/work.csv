@@ -1,0 +1,10 @@
+WorkID,WorkStatus,WorkTargetStart,WorkDescription,WorkName,PID,Department,ValueStream
+1006628,Open/Active,2/5/2024,Terraforming Moon,TF Moon,PID-433337,Foundational,Moon
+1011154,Open/Active,10/14/2024,Terraforming Mars,TF Mars,PID-434599,Foundational,Mars
+1010140,Open/Active,4/26/2024,Traveling to Moon,Travel Moon,PID-434083,Transportation,Moon
+1006608,Open/Active,1/29/2024,Farming on Moon,Farm Moon,PID-433165,Cultivation,Moon
+1011063,Open/Active,9/23/2024,Traveling to Mars,Travel Mars,PID-434494,Transportation,Mars
+1006612,Open/Active,1/29/2024,Farming on Mars,Farm Mars,PID-433180,Cultivation,Mars
+1012802,In Progress,4/4/2025,Ranching on Mars,Ranch Mars,PID-436238,Cultivation,Mars
+1011051,Open/Active,9/23/2024,Celebration,Catering,PID-434597,Celebration,Party
+1010141,In Progress,4/26/2024,Traveling to Moon and Beyond,Travel Moon and Beyond,PID-434083,Transportation,Moon
